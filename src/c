@@ -1,0 +1,22 @@
+import java.net.http. 
+import java.net.URI.
+
+public class service(){
+
+    private httpCliente cliente;
+
+    public api_Service(){
+        this api service = httpCliente new httpCliente;
+
+    }
+    
+    public String buscarDados() throws Exeption{
+        httpRequest = httpRequest.newBuilder();
+        .URI(URI.create());
+        .GET();
+        .BUILD();
+
+        http response
+    }
+
+}
